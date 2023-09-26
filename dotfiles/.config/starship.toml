@@ -1,0 +1,1 @@
+command_timeout = 1000 # Necessary for some git repos to not throw warning when opening terminal in those folders. https://github.com/starship/starship/discussions/4181#discussioncomment-3170845
